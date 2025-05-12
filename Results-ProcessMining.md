@@ -11,7 +11,8 @@ In a second step, **process mining** is executed. The performance comparison of 
 
 For me, a **simple-to-understand visualization** is important. So I updated the visualization code to include **icons** in the Petri nets. The clear, intuitive icons improve the readability of the abstract process and motivate engagement.
 
-![Petri Net with Icons](Code/visualizations/Standard_10000/petri_net_with_images_Standard_10000.png)  
+[![Petri Net with Icons](Code/visualizations/Standard_10000/petri_net_with_images_Standard_10000.png) ](Code/visualizations/Standard_10000/petri_net_with_images_Standard_10000.png)  
+
 *Example Petri Net showing combined routine behavior with activity icons.*
 
 ## Key Activities of the Settings
@@ -41,7 +42,7 @@ The **evening activities** vary depending on the chosen setting:
 - Visible activities: `WatchingTV`, `Cat-cuddles`, `ComputerGaming`, `Reading(Book)`
 - Since the entire log is mined at once, the three settings **blend together**, and their structure isn't clearly distinguishable.
 
-![Petri Net Overview](./assets/petri_full_log.png)
+[![Petri Net with Icons](Code/visualizations/Standard_10000/petri_net_with_images_Standard_10000.png) ](Code/visualizations/Standard_10000/petri_net_with_images_Standard_10000.png)
 
 ## Performance Comparison
 
